@@ -1,3 +1,4 @@
+dir.create(tempdir())
 ## Calculate and cache the inverse of a square matrix
 
 # Define a matrix m1 with a simple matrix inverse n1
